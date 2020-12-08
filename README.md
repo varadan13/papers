@@ -2,6 +2,9 @@
 
 Collection of papers in cognitive neuroscience with a focus on using artificial neural networks to model brain data.  
 
+## Google Deepmind  
+- [ ] [ProSPr: Democratized Implementation of Alphafold Protein Distance Prediction Network](https://www.biorxiv.org/content/10.1101/830273v2.full)
+
 ## Deep learning in cognitive neuroscience
 
 <i>Language</i>
